@@ -1,4 +1,4 @@
-The back-end app is running on port 80 and it mentioned inside "app.py" file.
+This back-end app is running on port 80 and it mentioned inside "app.py" file.
 
 You can build an image with the command below:
 * docker build -t <name:tag> .
